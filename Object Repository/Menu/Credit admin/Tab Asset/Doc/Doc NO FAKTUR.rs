@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Doc NO FAKTUR</name>
+   <tag></tag>
+   <elementGuidId>35f85c79-7cea-40b3-83d9-424a179a40e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.alt > td:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='gvAssetDocEdit']/tbody/tr[3]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ed61a6b0-8bb8-4e34-9a95-b365ac688a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Yes
+                                                </value>
+      <webElementGuid>859e9b7f-6966-4eed-a0b0-0517c5934478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gvAssetDocEdit&quot;)/tbody[1]/tr[@class=&quot;alt&quot;]/td[3]</value>
+      <webElementGuid>069bf38f-919a-4890-b97b-55c21db27dd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Credit admin/Tab Asset/iframe_Term  Condition_appForm</value>
+      <webElementGuid>65e4d0a2-c819-44af-bf7f-8aae3dee066e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='gvAssetDocEdit']/tbody/tr[3]/td[3]</value>
+      <webElementGuid>e08f4bf5-71c1-4cd3-9b7c-f217afc2aeee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO FAKTUR'])[1]/following::td[1]</value>
+      <webElementGuid>d4d777f3-ecd6-46ec-a1fc-29bdccf959f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Fill This Field'])[1]/following::td[4]</value>
+      <webElementGuid>38a17328-3747-430d-b99a-efe3ee389b86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::td[1]</value>
+      <webElementGuid>2ca13af5-c360-4358-8825-99313794bbf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/table/tbody/tr[3]/td[3]</value>
+      <webElementGuid>ab1a4a1d-ad75-42f0-8180-d7b8af6a00ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                                                    Yes
+                                                ' or . = '
+                                                    Yes
+                                                ')]</value>
+      <webElementGuid>e28612d6-2d21-415b-8118-07bc7c073ce9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
