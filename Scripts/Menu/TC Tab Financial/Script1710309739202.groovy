@@ -197,6 +197,8 @@ for (int baris = 1; baris <= Datahohendy.getRowNumbers(); baris++) {
 		
 		WebUI.delay(5)
 		
+		WebUI.dismissAlert(FailureHandling.OPTIONAL)
+		
 		WebUI.switchToDefaultContent()
 		
 		WebUI.scrollToElement(findTestObject('Object Repository/Menu/Credit admin/Tab Financial Data/Rate'), 3)
