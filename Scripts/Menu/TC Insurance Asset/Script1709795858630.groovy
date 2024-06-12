@@ -85,6 +85,10 @@ for (int baris = 1; baris <= Datahohendy.getRowNumbers(); baris++)
 			
 			WebUI.delay(22)
 			
+			WebUI.scrollToElement(findTestObject('Object Repository/Menu/Credit admin/Tab Insurance Asset/Calculate Insco'), 2)
+			
+			WebUI.delay(2)
+			
 			WebUI.click(findTestObject('Object Repository/Menu/Credit admin/Tab Insurance Asset/Calculate Insco'))
 			
 			WebUI.delay(20)
@@ -224,6 +228,10 @@ for (int baris = 1; baris <= Datahohendy.getRowNumbers(); baris++)
 			WebUI.click(findTestObject('Object Repository/Menu/Credit admin/Tab Insurance Asset/Next'))
 			
 			WebUI.delay(22)
+			
+			WebUI.scrollToElement(findTestObject('Object Repository/Menu/Credit admin/Tab Insurance Asset/Calculate Insco'), 2)
+			
+			WebUI.delay(2)
 			
 			WebUI.click(findTestObject('Object Repository/Menu/Credit admin/Tab Insurance Asset/Calculate Insco'))
 			
